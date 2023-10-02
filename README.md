@@ -18,6 +18,4 @@ Alors etes vous prêts à tourner la roue et à embrasser le chaos coloré ?
 Prêt a jouer ?
 CLIQUEZ SUR LE LIEN CI-DESSOUS !
 
-# Jeu-d-hasard
-
 https://scratch.mit.edu/projects/899320043/
