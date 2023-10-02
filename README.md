@@ -15,7 +15,7 @@ Mais attention, c'est un jeu de pur hasard !
 
 Alors etes vous prêts à tourner la roue et à embrasser le chaos coloré ?
 
-Prêt a jouer ?
+# Prêt a jouer ?
 CLIQUEZ SUR LE LIEN CI-DESSOUS !
 
 https://scratch.mit.edu/projects/899320043/
